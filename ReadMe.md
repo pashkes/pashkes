@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end developer
 -------------------
 
-* 🌍  I'm based in Kyev
+* 🌍  I'm based in Borova, Kiev region
 * 🖥️  See my portfolio at [Develop by Gatsby](http://pavlotarasenko.netlify.app)
 * ✉️  You can contact me at [pavlo.tarasenko.dev@gmail.com](mailto:pavlo.tarasenko.dev@gmail.com)
 * 🧠  I'm learning Angular
