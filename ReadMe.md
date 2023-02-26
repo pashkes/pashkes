@@ -5,7 +5,7 @@ Front-end developer
 -------------------
 
 * 🌍  I'm based in Borova, Kiev region
-* 🖥️  See my portfolio at [Develop by Gatsby](http://pavlotarasenko.netlify.app)
+* 🖥️  See my portfolio at [Developed by Gatsby](http://pavlotarasenko.netlify.app)
 * ✉️  You can contact me at [pavlo.tarasenko.dev@gmail.com](mailto:pavlo.tarasenko.dev@gmail.com)
 * 🧠  I'm learning Angular
 
