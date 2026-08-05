@@ -1,45 +1,30 @@
-# Hi, I'm Pavlo 👋
+# Hi, I'm Pavlo
 
 ## Senior Frontend Developer
 
-Frontend developer with 9+ years of commercial experience building and maintaining complex web applications across payments, iGaming, marketing, and trading products.
+Senior Frontend Developer with 9+ years of professional experience building and evolving long-lived React and Angular products. My experience spans B2B white-label platforms across payments, iGaming, marketing and trading, including operational back-office systems and customer-facing applications.
 
-My primary focus is React and TypeScript, but I take a pragmatic, framework-agnostic approach and prefer choosing technologies based on product, team, and technical requirements.
+React and TypeScript are my primary focus, supported by strong Angular experience. I work effectively with large, established codebases, balancing new feature delivery with legacy modernization and long-term maintainability.
 
-I have experience with:
+## Selected work
 
-- customer-facing applications and operational back-office systems;
-- schema-driven payment flows and third-party integrations;
-- multi-brand, multilingual, and RTL interfaces;
-- server-side rendering and CMS-driven platforms;
-- large existing codebases, legacy modernization, and performance optimization.
+- Designed and implemented the frontend architecture of an iframe-based Payment Widget that dynamically renders payment flows from backend-provided JSON Schema and UI Schema configurations.
+- Integrated tokenization and delivered multi-step card, saved-card, alternative payment method and cryptocurrency flows.
+- Contributed to a server-rendered marketing platform with 600+ reusable templates powering more than 10,000 landing pages across multiple brands and locales.
+- Developed multilingual customer-facing applications, operational back-office systems and custom CMS tooling.
 
 ## Core technologies
 
-### Frontend
-React · Angular · TypeScript · JavaScript · HTML · CSS · SCSS
+**Frontend:** React · Angular · TypeScript · JavaScript · HTML · CSS · SCSS
 
-### State, data and APIs
-Redux · NgRx · RxJS · TanStack Query · Apollo GraphQL · GraphQL · REST · WebSockets
+**State and data:** Redux · NgRx · RxJS · TanStack Query · Apollo GraphQL · REST · WebSocket
 
-### UI, forms and platforms
-MUI · PrimeNG · Angular Material · Tailwind CSS · React Hook Form · Formik · JSON Schema Forms · Strapi
+**UI and forms:** MUI · PrimeNG · Angular Material · Tailwind CSS · React Hook Form · Formik · JSON Schema Forms
 
-### Tooling and testing
-Vite · Webpack · Nx · SSR · Jest · WebdriverIO · Git
-
-## Commercial experience
-
-I have contributed to several long-running platforms:
-
-- **Cashier Platform** — payment operations, provider configuration, secure payment flows, card payments, saved cards, alternative payment methods, and cryptocurrency transactions.
-- **Runway Marketing Platform** — marketing dashboard, SSR landing-page platform, reusable templates, CRM configuration, and custom content-editing tools.
-- **iGaming Platform** — player-facing website, back-office systems, bonuses, payments, KYC integrations, and Strapi CMS.
-- **Trading Platform** — customer-facing web and mobile applications, onboarding, payment methods, and back-office workflows.
+**Tooling and platforms:** Vite · Webpack · Nx · Strapi · Jest · WebdriverIO · Git
 
 ## Contact
 
-- Location: Kyiv region, Ukraine
-- Email: [pavlo.tarasenko.dev@gmail.com](mailto:pavlo.tarasenko.dev@gmail.com)
-- LinkedIn: [linkedin.com/in/pavlotarasenko](https://www.linkedin.com/in/pavlotarasenko)
-- GitHub: [github.com/pashkes](https://github.com/pashkes)
+- Kyiv region, Ukraine
+- [pavlo.tarasenko.dev@gmail.com](mailto:pavlo.tarasenko.dev@gmail.com)
+- [linkedin.com/in/pavlotarasenko](https://www.linkedin.com/in/pavlotarasenko)
